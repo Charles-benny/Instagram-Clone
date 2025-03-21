@@ -1,2 +1,2 @@
 # Instagram-Clone
-Django oroject
+Django project
